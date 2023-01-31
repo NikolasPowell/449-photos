@@ -78,7 +78,7 @@ img {
     background-color: #D1E8E2;
     border-radius: 5px;
     height: 205px;
-    border-bottom: 5px;
+    border-bottom: 10px black;
     border-style: outset;
 }
 
