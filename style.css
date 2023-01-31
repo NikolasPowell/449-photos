@@ -87,7 +87,7 @@ img {
     gap: 20px;
 }
 
-.images section {
+.images div {
     flex-grow: 1;
     flex-basis: 0;
     background-color: #D1E8E2;
@@ -112,7 +112,7 @@ img {
     display: flex;
 }
 
-.imagesV2 section {
+.imagesV2 div {
     flex-grow: 1;
     flex-basis: 0;
     background-color: #D1E8E2;
@@ -154,7 +154,7 @@ img {
     gap: 20px;
 }
 
-.images2 section {
+.images2 div {
     flex-grow: 1;
     flex-basis: 0;
     background-color: #D1E8E2;
@@ -174,7 +174,7 @@ img {
     gap: 20px;
 }
 
-.images3 section {
+.images3 div {
     flex-grow: 1;
     flex-basis: 0;
     background-color: #D1E8E2;
@@ -191,4 +191,14 @@ img {
 
 .space {
     margin-top: 50px;
+}
+
+.images a {
+    padding-left: 25%;
+    font-size: 2em;
+}
+
+.container a {
+    padding-left: 50%;
+    font-size: 2em;
 }
